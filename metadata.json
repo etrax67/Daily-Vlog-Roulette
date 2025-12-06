@@ -1,0 +1,8 @@
+{
+  "name": "Daily Vlog Roulette",
+  "description": "A social app where one friend is randomly selected daily to record a vlog for the group.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
